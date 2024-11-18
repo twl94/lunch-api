@@ -18,12 +18,12 @@
 # 급식조회
 
 ```
-https://lunch-api.vercel.app/lunch?region=[지역코드]&code=[학교코드]&date=[급식을 가져올 날짜 (YYMMDD)]
+https://lunch-api.kro.kr/lunch?region=[지역코드]&code=[학교코드]&date=[급식을 가져올 날짜 (YYMMDD)]
 ```
 
 예시:
 ```
-https://lunch-api.vercel.app/lunch?region=X12&code=3456789&date=241118
+https://lunch-api.kro.kr/lunch?region=X12&code=3456789&date=241118
 ```
 
 결과
@@ -51,12 +51,12 @@ https://lunch-api.vercel.app/lunch?region=X12&code=3456789&date=241118
 # 학교조회
 
 ```
-https://lunch-api.vercel.app/school?name=[학교이름]
+https://lunch-api.kro.kr/school?name=[학교이름]
 ```
 
 예시:
 ```
-https://lunch-api.vercel.app/school?name=깃헙초등학교
+https://lunch-api.kro.kr/school?name=깃헙초등학교
 ```
 
 결과: 
