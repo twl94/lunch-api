@@ -18,12 +18,12 @@
 # 급식조회
 
 ```
-https://lunch-api.vercel.app/lunch?region=[지역코드]&code=[학교코드]
+https://lunch-api.vercel.app/lunch?region=[지역코드]&code=[학교코드]&date=[급식을 가져올 날짜 (YYMMDD)]
 ```
 
 예시:
 ```
-https://lunch-api.vercel.app/lunch?region=X12&code=3456789
+https://lunch-api.vercel.app/lunch?region=X12&code=3456789&date=241118
 ```
 
 결과
